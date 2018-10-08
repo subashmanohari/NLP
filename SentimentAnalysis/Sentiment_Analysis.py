@@ -1,3 +1,3 @@
 import sentiment_mod as s
 
-print(s.sentiment("--review--"))
+print(s.sentiment("This movie was awesome."))
